@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: hangman
+Version: 1.0.0
+Summary: example is a example package
+Home-page: https://example.com/your/project/page
+Author: Your Name
+Author-email: your-email@example.com
+License: Apache License, Version 2.0
+Description: ### What is this?
+        
+        A long description for example project.
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
